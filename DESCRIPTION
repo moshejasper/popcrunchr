@@ -13,9 +13,12 @@ Imports:
     adegenet,
     dplyr,
     ggplot2,
+    ggrepel,
     magrittr,
     plotly,
-    tibble
+    stats,
+    tibble,
+    tidyselect
 RoxygenNote: 7.2.1
 URL: https://github.com/moshejasper/popcrunchr
 BugReports: https://github.com/moshejasper/popcrunchr/issues
