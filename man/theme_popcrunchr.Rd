@@ -4,7 +4,7 @@
 \alias{theme_popcrunchr}
 \title{popcrunchr theme}
 \usage{
-theme_popcrunchr(vals = ColLabs)
+theme_popcrunchr(vals)
 }
 \arguments{
 \item{vals}{list of values for fill scale}

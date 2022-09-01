@@ -7,7 +7,7 @@
 #'
 #' @examples
 #' theme_popcrunchr()
-theme_popcrunchr <- function(vals = ColLabs){
+theme_popcrunchr <- function(vals){
   return(list(scale_fill_manual(values = vals, name = "Location"), theme_bw(),
               theme(panel.background = element_rect(fill = "white"), legend.position = "none",
                     plot.title = element_text(hjust = 0.5, size = 20), axis.title = element_text(size = 16),
