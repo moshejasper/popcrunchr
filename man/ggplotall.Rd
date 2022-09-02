@@ -8,6 +8,8 @@ ggplotall(
   df,
   xval,
   yval,
+  dataref,
+  lev,
   Pop = allidv_gen@pop,
   xl = xval,
   yl = yval,
@@ -26,6 +28,8 @@ ggplotall(
 \item{xval}{name of x data column}
 
 \item{yval}{name of y data column}
+
+\item{dataref}{RefData object}
 
 \item{Pop}{vector of pops drawn from}
 
@@ -46,6 +50,8 @@ ggplotall(
 \item{force_pull}{internal value for repel}
 
 \item{max.overlaps}{internal value for repel}
+
+\item{character}{facet of RefData to focus on}
 }
 \value{
 returns ggplot graph (or paints it)

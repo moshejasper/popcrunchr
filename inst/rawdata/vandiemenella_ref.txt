@@ -1,0 +1,305 @@
+id	targetid	site	pop	state	district	species	chr_race	latitude	longitude	miss
+AL01	1896100	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.0538366
+AL04	1896102	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.0544554
+AL05	1896103	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.0544554
+AL16	1896106	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.0507426
+ML01	1896107	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.0742574
+ML05	1896109	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.052599
+ML08	1896110	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.049505
+ML17	1896112	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.0445545
+ML03	1896113	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.0625
+PGN04	1896115	6.6 km N of Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0488861
+PGN05	1896116	6.6 km N of Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0519802
+PGN17	1896120	6.6 km N of Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0569307
+TG25	1896122	Telowie Gorge Conservation Park	Telowie_Gg	SA	SA	Vandiemenella	P24XO	-33.025312	138.089009	0.0569307
+TG32	1896127	Telowie Gorge Conservation Park	Telowie_Gg	SA	SA	Vandiemenella	P24XO	-33.025312	138.089009	0.0674505
+PT01	1896128	Point Turton	Point_Turton	SA	SA	Vandiemenella	P24XY	-34.947292	137.400994	0.0816832
+PT07	1896129	Point Turton	Point_Turton	SA	SA	Vandiemenella	P24XY	-34.947292	137.400994	0.0717822
+PT04	1896130	Point Turton	Point_Turton	SA	SA	Vandiemenella	P24XY	-34.947292	137.400994	0.0717822
+PT06	1896131	Point Turton	Point_Turton	SA	SA	Vandiemenella	P24XY	-34.947292	137.400994	0.0711634
+PT08	1896132	Point Turton	Point_Turton	SA	SA	Vandiemenella	P24XY	-34.947292	137.400994	0.0631188
+PT11	1896133	Point Turton	Point_Turton	SA	SA	Vandiemenella	P24XY	-34.947292	137.400994	0.0618812
+TW01	1896134	Tiddy Widdy Beach	Tiddy_Widdy	SA	SA	Vandiemenella	P24XY	-34.396459	137.944959	0.0600248
+TW02	1896135	Tiddy Widdy Beach	Tiddy_Widdy	SA	SA	Vandiemenella	P24XY	-34.396459	137.944959	0.0668317
+TW11	1896136	Tiddy Widdy Beach	Tiddy_Widdy	SA	SA	Vandiemenella	P24XY	-34.396459	137.944959	0.0693069
+TW16	1896137	Tiddy Widdy Beach	Tiddy_Widdy	SA	SA	Vandiemenella	P24XY	-34.396459	137.944959	0.0618812
+TW19	1896138	Tiddy Widdy Beach	Tiddy_Widdy	SA	SA	Vandiemenella	P24XY	-34.396459	137.944959	0.0711634
+TW18	1896139	Tiddy Widdy Beach	Tiddy_Widdy	SA	SA	Vandiemenella	P24XY	-34.396459	137.944959	0.0792079
+CB02	1896140	Coffin Bay	Coffin_Bay	SA	SA	Vandiemenella	P24XY-Trans	-34.621398	135.451228	0.0965347
+KL02	1896146	Kellidie Bay Conservation Park	Kellidie_Bay	SA	SA	Vandiemenella	P24XY-Trans	-34.613558	135.518687	0.0934406
+KL07	1896148	Kellidie Bay Conservation Park	Kellidie_Bay	SA	SA	Vandiemenella	P24XY-Trans	-34.613558	135.518687	0.0884901
+KL14	1896149	Kellidie Bay Conservation Park	Kellidie_Bay	SA	SA	Vandiemenella	P24XY-Trans	-34.613558	135.518687	0.107054
+KL20	1896151	Kellidie Bay Conservation Park	Kellidie_Bay	SA	SA	Vandiemenella	P24XY-Trans	-34.613558	135.518687	0.0884901
+PR31	1896152	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.0705446
+PR33	1896154	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.0637376
+PR34	1896155	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.0655941
+PR37	1896156	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.180074
+PR36	1896157	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.0625
+AG01	1896158	Alligator Gorge	Alligator_Gg	SA	SA	Vandiemenella	P25XY	-32.705052	138.103107	0.0655941
+AG04	1896159	Alligator Gorge	Alligator_Gg	SA	SA	Vandiemenella	P25XY	-32.705052	138.103107	0.0649752
+AG05	1896160	Alligator Gorge	Alligator_Gg	SA	SA	Vandiemenella	P25XY	-32.705052	138.103107	0.125
+AG02	1896161	Alligator Gorge	Alligator_Gg	SA	SA	Vandiemenella	P25XY	-32.705052	138.103107	0.0693069
+AG07	1896162	Alligator Gorge	Alligator_Gg	SA	SA	Vandiemenella	P25XY	-32.705052	138.103107	0.112624
+BF02	1896164	Bart's Farm	Barts_Farm	SA	SA	Vandiemenella	P45bXY	-33.13172778	136.2759944	0.0872525
+BF03	1896165	Bart's Farm	Barts_Farm	SA	SA	Vandiemenella	P45bXY	-33.13172778	136.2759944	0.0946782
+BF04	1896166	Bart's Farm	Barts_Farm	SA	SA	Vandiemenella	P45bXY	-33.13172778	136.2759944	0.103342
+BF08	1896167	Bart's Farm	Barts_Farm	SA	SA	Vandiemenella	P45bXY	-33.13172778	136.2759944	0.0878713
+BF09	1896168	Bart's Farm	Barts_Farm	SA	SA	Vandiemenella	P45bXY	-33.13172778	136.2759944	0.0773515
+BF10	1896169	Bart's Farm	Barts_Farm	SA	SA	Vandiemenella	P45bXY	-33.13172778	136.2759944	0.0884901
+KI01	1896170	Kimba Yates Road	Kimba	SA	SA	Vandiemenella	P45bXY	-33.132997	136.421448	0.0860149
+KI03	1896171	Kimba Yates Road	Kimba	SA	SA	Vandiemenella	P45bXY	-33.132997	136.421448	0.0977723
+KI07	1896172	Kimba Yates Road	Kimba	SA	SA	Vandiemenella	P45bXY	-33.132997	136.421448	0.0730198
+KI09	1896173	Kimba Yates Road	Kimba	SA	SA	Vandiemenella	P45bXY	-33.132997	136.421448	0.0915842
+KI19	1896174	Kimba Yates Road	Kimba	SA	SA	Vandiemenella	P45bXY	-33.132997	136.421448	0.072401
+KI20	1896175	Kimba Yates Road	Kimba	SA	SA	Vandiemenella	P45bXY	-33.132997	136.421448	0.0878713
+LB01	1896176	8.5 km NW of Lucky Bay	Lucky_Bay_NW	SA	SA	Vandiemenella	P45bXY	-33.658505	136.976385	0.191213
+LB02	1896177	8.5 km NW of Lucky Bay	Lucky_Bay_NW	SA	SA	Vandiemenella	P45bXY	-33.658505	136.976385	0.0655941
+LB04	1896178	8.5 km NW of Lucky Bay	Lucky_Bay_NW	SA	SA	Vandiemenella	P45bXY	-33.658505	136.976385	0.0779703
+LB09	1896179	8.5 km NW of Lucky Bay	Lucky_Bay_NW	SA	SA	Vandiemenella	P45bXY	-33.658505	136.976385	0.0897277
+LB08	1896180	8.5 km NW of Lucky Bay	Lucky_Bay_NW	SA	SA	Vandiemenella	P45bXY	-33.658505	136.976385	0.163366
+LB03	1896181	8.5 km NW of Lucky Bay	Lucky_Bay_NW	SA	SA	Vandiemenella	P45bXY	-33.658505	136.976385	0.0878713
+FBVV10	1896182	Fitzgerald Bay	Fitzgerald_Bay	SA	SA	Vandiemenella	P45bXO	-32.936184	137.753952	0.14047
+FBVV11	1896183	Fitzgerald Bay	Fitzgerald_Bay	SA	SA	Vandiemenella	P45bXO	-32.936184	137.753952	0.0717822
+MH01	1896188	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.195545
+MH08	1896189	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.188738
+MH03	1896190	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.183168
+MH05	1896191	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.1875
+MH06	1896192	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.189975
+MH04	1896193	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.188119
+MH09	1896194	12.4 km N of Mount Hope	Mt_Hope	SA	SA	Vandiemenella	P45c	-34.02643	135.277773	0.189975
+SH01	1896195	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.186262
+SH03	1896196	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.191213
+SH04	1896197	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.1875
+SH08	1896198	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.194307
+SH09	1896199	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.200495
+SH11	1896200	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.196163
+SH12	1896201	Sheringa Beach	Sheringa_Beach	SA	SA	Vandiemenella	P45c	-33.870902	135.172163	0.1875
+PE02	1896202	Peebinga East Boundary Road	Peebinga_E	SA	SA	Vandiemenella	P50	-34.990605	140.809993	0.0618812
+PE06	1896203	Peebinga East Boundary Road	Peebinga_E	SA	SA	Vandiemenella	P50	-34.990605	140.809993	0.0550743
+PE10	1896204	Peebinga East Boundary Road	Peebinga_E	SA	SA	Vandiemenella	P50	-34.990605	140.809993	0.0457921
+PE15	1896205	Peebinga East Boundary Road	Peebinga_E	SA	SA	Vandiemenella	P50	-34.990605	140.809993	0.0556931
+PE17	1896206	Peebinga East Boundary Road	Peebinga_E	SA	SA	Vandiemenella	P50	-34.990605	140.809993	0.049505
+PE20	1896207	Peebinga East Boundary Road	Peebinga_E	SA	SA	Vandiemenella	P50	-34.990605	140.809993	0.0600248
+OY02	1896208	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.214109
+OY03	1896209	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.215965
+OY04	1896210	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.215347
+OY10	1896211	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.21349
+OY14	1896212	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.218441
+OY15	1896213	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.217203
+PR11	1896214	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.179455
+PR10	1896215	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.184406
+TG03	1896216	Telowie Gorge Conservation Park	Telowie_Gg	SA	SA	Vandiemenella	P24XO	-33.025312	138.089009	0.0507426
+SL06	1896219	SugarLoaf Hill	Sugarloaf	SA	SA	Vandiemenella	viatica17	-36.033191	140.333153	0.0439356
+SL09	1896220	SugarLoaf Hill	Sugarloaf	SA	SA	Vandiemenella	viatica17	-36.033191	140.333153	0.049505
+SL12	1896221	SugarLoaf Hill	Sugarloaf	SA	SA	Vandiemenella	viatica17	-36.033191	140.333153	0.0420792
+SL13	1896222	SugarLoaf Hill	Sugarloaf	SA	SA	Vandiemenella	viatica17	-36.033191	140.333153	0.0402228
+SL26	1896223	SugarLoaf Hill	Sugarloaf	SA	SA	Vandiemenella	viatica17	-36.033191	140.333153	0.0439356
+KS09	1896224	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.0445545
+KS07	1896225	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.0464109
+KS15	1896226	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.0408416
+KS04	1896227	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.134901
+KS06	1896228	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.0550743
+KS08	1896229	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.039604
+KS21	1896230	7 km SE of Keith	Keith_S	SA	SA	Vandiemenella	viatica19	-36.149194	140.421194	0.0513614
+BH04	1896231	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.0408416
+BH01	1896232	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.0445545
+BH05	1896233	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.0544554
+BH06	1896234	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.052599
+BH08	1896235	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.052599
+BH09	1896236	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.0655941
+BH10	1896237	Bullock Road	Bullock_Rd	VIC	regional	Vandiemenella	viatica19	-36.786518	144.154465	0.0408416
+AS06	1896238	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0482673
+AS01	1896239	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0445545
+AS03	1896240	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0482673
+AS09	1896241	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0457921
+AS13	1896242	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0482673
+AS10	1896243	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0420792
+AS14	1896244	Anglesea	Anglesea	VIC	melbourne	Vandiemenella	viatica19	-38.414491	144.183676	0.0594059
+CR01	1896245	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.042698
+CR02	1896246	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.0532178
+CR03	1896247	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.0482673
+CR04	1896248	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.0346535
+CR05	1896249	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.0334158
+CR08	1896250	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.0389851
+CR09	1896251	Cranbourne Gardens	Cranbourne	VIC	melbourne	Vandiemenella	viatica19	-38.133457	145.280426	0.0420792
+LSP01	1896252	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0779703
+LSP04	1896253	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0699257
+LSP05	1896254	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0686881
+LSP06	1896255	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0662129
+LSP07	1896256	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0717822
+LSP08	1896257	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0748762
+LSP09	1896258	Loch Sport	Loch_Sport	VIC	regional	Vandiemenella	viatica19	-38.10546944	147.4866472	0.0674505
+MOR01	1896259	Moormurng Flora and Fauna Reserve	Moormurng	VIC	regional	Vandiemenella	viatica19	-37.89971111	147.4851389	0.0866337
+TR01	1896260	Temple Ridge & Bailey Gully Reserve	Temple_Ridge	VIC	melbourne	Vandiemenella	viatica19	-37.650813	145.192399	0.0309406
+TR02	1896261	Temple Ridge & Bailey Gully Reserve	Temple_Ridge	VIC	melbourne	Vandiemenella	viatica19	-37.650813	145.192399	0.0383663
+TR03	1896262	Temple Ridge & Bailey Gully Reserve	Temple_Ridge	VIC	melbourne	Vandiemenella	viatica19	-37.650813	145.192399	0.032797
+CBT01	1896263	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0631188
+CBT02	1896264	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0711634
+CBT06	1896265	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0655941
+CBT07	1896266	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0575495
+CBT04	1896267	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0637376
+CBT09	1896268	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0587871
+CBT12	1896269	Coles Bay	Coles_Bay	TAS	TAS	Vandiemenella	viatica19	-42.091503	148.243457	0.0637376
+FB01	1896270	Friendly Beaches	Friendly_Bch	TAS	TAS	Vandiemenella	viatica19	-41.994045	148.28045	0.0662129
+FB02	1896271	Friendly Beaches	Friendly_Bch	TAS	TAS	Vandiemenella	viatica19	-41.994045	148.28045	0.0680693
+BB01	1896272	Binalong Bay Beach	Binalong_Bay	TAS	TAS	Vandiemenella	viatica19	-41.246931	148.29463	0.0767327
+BB02	1896273	Binalong Bay Beach	Binalong_Bay	TAS	TAS	Vandiemenella	viatica19	-41.246931	148.29463	0.0748762
+NAR01	1896274	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0711634
+NAR02	1896275	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0705446
+NAR03	1896276	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0680693
+NAR04	1896277	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0767327
+NAR06	1896278	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0711634
+NAR07	1896279	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0655941
+NAR08	1896280	Narawntapu	Narawntapu	TAS	TAS	Vandiemenella	viatica19	-41.135526	146.626675	0.0699257
+SCB01	1896281	Swimcart Beach	Swimcart_Beach	TAS	TAS	Vandiemenella	viatica19	-41.2314	148.28392	0.075495
+SCB02	1896282	Swimcart Beach	Swimcart_Beach	TAS	TAS	Vandiemenella	viatica19	-41.2314	148.28392	0.0816832
+SCVV2	1896284	Swimcart Beach	Swimcart_Beach	TAS	TAS	Vandiemenella	viatica19	-41.2314	148.28392	0.0711634
+SCVV5	1896287	Swimcart Beach	Swimcart_Beach	TAS	TAS	Vandiemenella	viatica19	-41.2314	148.28392	0.0785891
+AL09	1896289	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.049505
+AL13	1896292	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.0569307
+AL14	1896293	Aldinga Beach	Aldinga_Bch	SA	SA	Vandiemenella	P24XO	-35.28934	138.445869	0.052599
+ML04	1896296	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.0532178
+ML11	1896299	Melrose	Melrose	SA	SA	Vandiemenella	P24XO	-32.81857	138.187403	0.049505
+TG16	1896311	Telowie Gorge Conservation Park	Telowie_Gg	SA	SA	Vandiemenella	P24XO	-33.025312	138.089009	0.0519802
+SL05	1896312	SugarLoaf Hill	Sugarloaf	SA	SA	Vandiemenella	viatica17	-36.033191	140.333153	0.0402228
+5950	2751501	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.225866
+5830	2751502	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.211015
+6088	2751503	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.222153
+6749	2751505	20 km N of Ouyen	Ouyen_N	VIC	regional	Vandiemenella	P50	-34.893899	142.302501	0.218441
+8383	2751506	East of Sedan	Sedan_E	SA	SA	Vandiemenella	P50	-34.5746	139.4763	0.247525
+8258	2751507	Sanderston	Sanderston	SA	SA	Vandiemenella	P50	-34.7545	139.2181	0.0742574
+8651	2751509	Sanderston	Sanderston	SA	SA	Vandiemenella	P50	-34.7545	139.2181	0.0625
+8273	2751510	6.6 km N Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0507426
+8434	2751511	6.6 km N Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0532178
+8499	2751512	6.6 km N Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0470297
+8454	2751513	6.6 km N Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0507426
+8453	2751514	6.6 km N Port Germein	Pt_Germein1	SA	SA	Vandiemenella	P24XO/P45bXO	-32.986819	138.068489	0.0501238
+8386	2751515	Port Germein2	Pt_Germein2	SA	SA	Vandiemenella	P24XO/P45bXO	-33.026346	138.005984	0.0544554
+8261	2751516	Port Germein2	Pt_Germein2	SA	SA	Vandiemenella	P24XO/P45bXO	-33.026346	138.005984	0.0563119
+8344	2751517	Port Germein t2	Pt_Germein3	SA	SA	Vandiemenella	P24XO/P45bXO	-32.990268	138.045082	0.0612624
+8183	2751518	Port Germein t2	Pt_Germein3	SA	SA	Vandiemenella	P24XO/P45bXO	-32.990268	138.045082	0.0600248
+8459	2751519	Port Germein t2	Pt_Germein3	SA	SA	Vandiemenella	P24XO/P45bXO	-32.990268	138.045082	0.0464109
+8455	2751520	Port Germein t2	Pt_Germein3	SA	SA	Vandiemenella	P24XO/P45bXO	-32.990268	138.045082	0.052599
+8461	2751521	Port Germein t2	Pt_Germein3	SA	SA	Vandiemenella	P24XO/P45bXO	-32.990268	138.045082	0.0643564
+8467	2751522	Port Germein t3	Pt_Germein4	SA	SA	Vandiemenella	P24XO/P45bXO	-32.98627	138.080917	0.049505
+8489	2751523	Port Germein t3	Pt_Germein4	SA	SA	Vandiemenella	P24XO/P45bXO	-32.98627	138.080917	0.0457921
+8463	2751524	Port Germein t3	Pt_Germein4	SA	SA	Vandiemenella	P24XO/P45bXO	-32.98627	138.080917	0.0476485
+8450	2751525	Port Germein t3	Pt_Germein4	SA	SA	Vandiemenella	P24XO/P45bXO	-32.98627	138.080917	0.0625
+8474	2751526	Port Germein t3	Pt_Germein4	SA	SA	Vandiemenella	P24XO/P45bXO	-32.98627	138.080917	0.0556931
+6066	2751527	Benalla Reefs Hill	Benalla	VIC	regional	Vandiemenella	viatica19	-36.603953	145.96075	0.112624
+6065	2751528	Benalla Reefs Hill	Benalla	VIC	regional	Vandiemenella	viatica19	-36.603953	145.96075	0.107673
+6068	2751529	Chiltern nr Pilot NP	Chiltern	VIC	regional	Vandiemenella	viatica19	-36.157376	146.62173	0.137376
+6069	2751530	Chiltern nr Pilot NP	Chiltern	VIC	regional	Vandiemenella	viatica19	-36.157376	146.62173	0.142327
+6067	2751531	Chiltern nr Pilot NP	Chiltern	VIC	regional	Vandiemenella	viatica19	-36.157376	146.62173	0.142327
+8439	2751532	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.049505
+8452	2751533	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0519802
+8629	2751534	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0680693
+8717	2751535	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0488861
+8784	2751536	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0829208
+8165	2751537	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0445545
+8152	2751539	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0457921
+8210	2751540	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0470297
+8153	2751541	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0488861
+8345	2751542	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0606436
+8226	2751543	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0748762
+8188	2751544	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.052599
+8281	2751545	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0519802
+8225	2751546	Hindmarsh Council Reserve	Hindmarsh_Council	VIC	regional	Vandiemenella	viatica19	-36.368099	141.882294	0.0600248
+8179	2751547	Little Desert Lodge	Little_Desert	VIC	regional	Vandiemenella	viatica19	-36.4533	141.6584	0.0717822
+8421	2751548	Little Desert Lodge	Little_Desert	VIC	regional	Vandiemenella	viatica19	-36.4533	141.6584	0.0649752
+8445	2751549	Little Desert Lodge	Little_Desert	VIC	regional	Vandiemenella	viatica19	-36.4533	141.6584	0.105198
+8541	2751550	Little Desert Lodge	Little_Desert	VIC	regional	Vandiemenella	viatica19	-36.4533	141.6584	0.0587871
+8581	2751551	Little Desert Lodge	Little_Desert	VIC	regional	Vandiemenella	viatica19	-36.4533	141.6584	0.0612624
+8218	2751552	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0402228
+8204	2751553	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0643564
+8213	2751554	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.049505
+8277	2751555	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0581683
+8217	2751556	Junction Dam Reserve	Junction_Dam	VIC	regional	Vandiemenella	viatica19	-36.385	141.891	0.0594059
+8279A	2751557	Mt Korong	Mt_Korong	VIC	regional	Vandiemenella	viatica19	-36.462856	143.747073	0.0600248
+8279B	2751558	Mt Korong	Mt_Korong	VIC	regional	Vandiemenella	viatica19	-36.462856	143.747073	0.0408416
+8279C	2751559	Mt Korong	Mt_Korong	VIC	regional	Vandiemenella	viatica19	-36.462856	143.747073	0.0556931
+8279D	2751560	Mt Korong	Mt_Korong	VIC	regional	Vandiemenella	viatica19	-36.462856	143.747073	0.0513614
+8579	2751561	Stinton's Reserve	Stintons_Res	VIC	melbourne	Vandiemenella	viatica19	-37.766975	145.206467	0.0414604
+8543	2751562	Stinton's Reserve	Stintons_Res	VIC	melbourne	Vandiemenella	viatica19	-37.766975	145.206467	0.0637376
+8562	2751563	Stinton's Reserve	Stintons_Res	VIC	melbourne	Vandiemenella	viatica19	-37.766975	145.206467	0.0488861
+8600	2751564	100 Acres Reserve Park Orchards	100Acr_Res	VIC	melbourne	Vandiemenella	viatica19	-37.774658	145.22496	0.0507426
+8603	2751565	100 Acres Reserve Park Orchards	100Acr_Res	VIC	melbourne	Vandiemenella	viatica19	-37.774658	145.22496	0.0303218
+8606	2751566	100 Acres Reserve Park Orchards	100Acr_Res	VIC	melbourne	Vandiemenella	viatica19	-37.774658	145.22496	0.0507426
+8530	2751567	Maino Block Diamond Creek	Diamond_Creek1	VIC	melbourne	Vandiemenella	viatica19	-37.671974	145.159943	0.042698
+8509	2751568	Maino Block Diamond Creek	Diamond_Creek1	VIC	melbourne	Vandiemenella	viatica19	-37.671974	145.159943	0.0259901
+8516	2751569	Maino Block Diamond Creek	Diamond_Creek1	VIC	melbourne	Vandiemenella	viatica19	-37.671974	145.159943	0.029703
+8559	2751570	Chase View Ct Kangaroo Ground	Kangaroo_Ground	VIC	melbourne	Vandiemenella	viatica19	-37.714035	145.223206	0.0315594
+8613	2751571	Chase View Ct Kangaroo Ground	Kangaroo_Ground	VIC	melbourne	Vandiemenella	viatica19	-37.714035	145.223206	0.0959158
+8608	2751572	Chase View Ct Kangaroo Ground	Kangaroo_Ground	VIC	melbourne	Vandiemenella	viatica19	-37.714035	145.223206	0.0321782
+8609	2751573	Chase View Ct Kangaroo Ground	Kangaroo_Ground	VIC	melbourne	Vandiemenella	viatica19	-37.714035	145.223206	0.0433168
+8605	2751574	Chase View Ct Kangaroo Ground	Kangaroo_Ground	VIC	melbourne	Vandiemenella	viatica19	-37.714035	145.223206	0.0371287
+8571	2751575	Diamond Creek Ironbark Rd	Diamond_Creek2	VIC	melbourne	Vandiemenella	viatica19	-37.659787	145.145272	0.0290842
+8612	2751576	Diamond Creek Ironbark Rd	Diamond_Creek2	VIC	melbourne	Vandiemenella	viatica19	-37.659787	145.145272	0.0334158
+8585	2751577	Diamond Creek Ironbark Rd	Diamond_Creek2	VIC	melbourne	Vandiemenella	viatica19	-37.659787	145.145272	0.0358911
+8634	2751578	Hurstbridge Haleys Gully rd	Hurstbridge2	VIC	melbourne	Vandiemenella	viatica19	-37.630531	145.175079	0.0290842
+8640	2751579	Hurstbridge Haleys Gully rd	Hurstbridge2	VIC	melbourne	Vandiemenella	viatica19	-37.630531	145.175079	0.0377475
+8635	2751580	Hurstbridge Haleys Gully rd	Hurstbridge2	VIC	melbourne	Vandiemenella	viatica19	-37.630531	145.175079	0.0358911
+8628	2751581	Diamond Creek Seymour Dr	Diamond_Creek3	VIC	melbourne	Vandiemenella	viatica19	-37.654575	145.136444	0.039604
+8649	2751582	Diamond Creek Seymour Dr	Diamond_Creek3	VIC	melbourne	Vandiemenella	viatica19	-37.654575	145.136444	0.0340347
+8648	2751583	Diamond Creek Seymour Dr	Diamond_Creek3	VIC	melbourne	Vandiemenella	viatica19	-37.654575	145.136444	0.0290842
+8623	2751584	Hurstbridge Kendalls Ln.	Hurstbridge1	VIC	melbourne	Vandiemenella	viatica19	-37.63508	145.17099	0.0284653
+8519	2751585	Hurstbridge Kendalls Ln.	Hurstbridge1	VIC	melbourne	Vandiemenella	viatica19	-37.63508	145.17099	0.0451733
+8631	2751586	Hurstbridge Kendalls Ln.	Hurstbridge1	VIC	melbourne	Vandiemenella	viatica19	-37.63508	145.17099	0.0309406
+8598	2751587	Diamond Creek Ironbark rd (power lines)	Diamond_Creek4	VIC	melbourne	Vandiemenella	viatica19	-37.658389	145.147961	0.0340347
+8564	2751588	Diamond Creek Ironbark rd (power lines)	Diamond_Creek4	VIC	melbourne	Vandiemenella	viatica19	-37.658389	145.147961	0.0321782
+8616	2751589	Diamond Creek Ironbark rd (power lines)	Diamond_Creek4	VIC	melbourne	Vandiemenella	viatica19	-37.658389	145.147961	0.0377475
+8601	2751590	Wattle Glen Moonlight Rd	Wattle_Glen	VIC	melbourne	Vandiemenella	viatica19	-37.664474	145.206146	0.0247525
+8614	2751591	Wattle Glen Moonlight Rd	Wattle_Glen	VIC	melbourne	Vandiemenella	viatica19	-37.664474	145.206146	0.0402228
+8639	2751592	Wattle Glen Moonlight Rd	Wattle_Glen	VIC	melbourne	Vandiemenella	viatica19	-37.664474	145.206146	0.0519802
+8643	2751593	Bay Rd Heathland Reserve Sandringham	Sandringham	VIC	melbourne	Vandiemenella	viatica19	-37.9558	145.0269	0.042698
+8615	2751594	Bay Rd Heathland Reserve Sandringham	Sandringham	VIC	melbourne	Vandiemenella	viatica19	-37.9558	145.0269	0.0451733
+8621	2751596	Bay Rd Heathland Reserve Sandringham	Sandringham	VIC	melbourne	Vandiemenella	viatica19	-37.9558	145.0269	0.0569307
+8624	2751597	Bay Rd Heathland Reserve Sandringham	Sandringham	VIC	melbourne	Vandiemenella	viatica19	-37.9558	145.0269	0.0594059
+8637	2751598	Bay Rd Heathland Reserve Sandringham	Sandringham	VIC	melbourne	Vandiemenella	viatica19	-37.9558	145.0269	0.0587871
+8690	2751599	Truganina Park	Truganina	VIC	melbourne	Vandiemenella	viatica19	-37.88344457	144.79791	0.0686881
+8772	2751601	Truganina Park	Truganina	VIC	melbourne	Vandiemenella	viatica19	-37.88344457	144.79791	0.0581683
+8755	2751607	2 km W Kingower	Kingower	VIC	regional	Vandiemenella	viatica19	-36.608292	143.779404	0.0544554
+8705	2751609	Kiata	Kiata	VIC	regional	Vandiemenella	viatica19	-36.366459	141.79863	0.0662129
+8709	2751611	Kiata	Kiata	VIC	regional	Vandiemenella	viatica19	-36.366459	141.79863	0.0519802
+8759	2751612	Kiata	Kiata	VIC	regional	Vandiemenella	viatica19	-36.366459	141.79863	0.0903465
+8789	2751613	Kiata	Kiata	VIC	regional	Vandiemenella	viatica19	-36.366459	141.79863	0.0674505
+8166	2751614	Musselroe Bay	Musselroe_Bay	TAS	TAS	Vandiemenella	viatica19	-40.843128	148.202891	0.100866
+8182	2751615	Musselroe Bay	Musselroe_Bay	TAS	TAS	Vandiemenella	viatica19	-40.843128	148.202891	0.0847772
+8169	2751616	Musselroe Bay	Musselroe_Bay	TAS	TAS	Vandiemenella	viatica19	-40.843128	148.202891	0.0915842
+8167	2751617	Musselroe Bay	Musselroe_Bay	TAS	TAS	Vandiemenella	viatica19	-40.843128	148.202891	0.0884901
+8176	2751618	Musselroe Bay	Musselroe_Bay	TAS	TAS	Vandiemenella	viatica19	-40.843128	148.202891	0.0884901
+8476	2751619	Cromer	Cromer	SA	SA	Vandiemenella	viatica17	-34.764	138.9459	0.0928218
+8500	2751620	Cromer	Cromer	SA	SA	Vandiemenella	viatica17	-34.764	138.9459	0.0977723
+8551	2751621	Cromer	Cromer	SA	SA	Vandiemenella	viatica17	-34.764	138.9459	0.0866337
+8580	2751622	Cromer	Cromer	SA	SA	Vandiemenella	viatica17	-34.764	138.9459	0.0866337
+8512	2751623	Cromer	Cromer	SA	SA	Vandiemenella	viatica17	-34.764	138.9459	0.103342
+8232	2751624	Coorong National Park	Coorong	SA	SA	Vandiemenella	viatica17	-36.1167	139.7045	0.0550743
+8212	2751625	Coorong National Park	Coorong	SA	SA	Vandiemenella	viatica17	-36.1167	139.7045	0.0655941
+8236	2751626	Coorong National Park	Coorong	SA	SA	Vandiemenella	viatica17	-36.1167	139.7045	0.0779703
+8237	2751627	Coorong National Park	Coorong	SA	SA	Vandiemenella	viatica17	-36.1167	139.7045	0.0538366
+8239	2751628	Coorong National Park	Coorong	SA	SA	Vandiemenella	viatica17	-36.1167	139.7045	0.0680693
+8187	2751629	Mt Crawford National Park	Mt_Crawford	SA	SA	Vandiemenella	viatica17	-34.70751	138.96099	0.0891089
+8184	2751630	Mt Crawford National Park	Mt_Crawford	SA	SA	Vandiemenella	viatica17	-34.70751	138.96099	0.0847772
+8202	2751631	Mt Crawford National Park	Mt_Crawford	SA	SA	Vandiemenella	viatica17	-34.70751	138.96099	0.0798267
+8242	2751632	Mt Crawford National Park	Mt_Crawford	SA	SA	Vandiemenella	viatica17	-34.70751	138.96099	0.0928218
+8233	2751633	Mt Crawford National Park	Mt_Crawford	SA	SA	Vandiemenella	viatica17	-34.70751	138.96099	0.0965347
+8779	2751634	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.215347
+8377	2751636	Warren Gorge1	Warren_Gg	SA	SA	Vandiemenella	P25XO	-32.18657	138.013862	0.0761139
+8425	2751637	Warren Gorge1	Warren_Gg	SA	SA	Vandiemenella	P25XO	-32.18657	138.013862	0.082302
+8341	2751638	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.199876
+8295	2751639	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.188738
+8294	2751640	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.206064
+8162	2751641	Pichi Richi Park	Pichi_Richi	SA	SA	Vandiemenella	P25XO	-32.431953	137.975382	0.201733
+8337	2751642	Warren Gorge1	Warren_Gg	SA	SA	Vandiemenella	P25XO	-32.18657	138.013862	0.201114
+8168	2751643	Warren Gorge1	Warren_Gg	SA	SA	Vandiemenella	P25XO	-32.18657	138.013862	0.186262
+8405	2751644	Fitzgerald Bay	Fitzgerald_Bay	SA	SA	Vandiemenella	P45bXO	-32.936184	137.753952	0.0928218
+8155	2751645	Fitzgerald Bay	Fitzgerald_Bay	SA	SA	Vandiemenella	P45bXO	-32.936184	137.753952	0.0872525
+8592	2751646	Fitzgerald Bay	Fitzgerald_Bay	SA	SA	Vandiemenella	P45bXO	-32.936184	137.753952	0.112624
+8576	2751647	Fitzgerald Bay	Fitzgerald_Bay	SA	SA	Vandiemenella	P45bXO	-32.936184	137.753952	0.0909653
+8740	2751648	Truganina Park	Truganina	VIC	melbourne	Vandiemenella	viatica19	-37.88344457	144.79791	0.049505
+8663	2751650	Truganina Park	Truganina	VIC	melbourne	Vandiemenella	viatica19	-37.88344457	144.79791	0.0507426
+8701	2751652	2 km W Kingower	Kingower	VIC	regional	Vandiemenella	viatica19	-36.608292	143.779404	0.0451733
+8692	2751653	2 km W Kingower	Kingower	VIC	regional	Vandiemenella	viatica19	-36.608292	143.779404	0.052599
+8744	2751654	2 km W Kingower	Kingower	VIC	regional	Vandiemenella	viatica19	-36.608292	143.779404	0.0649752
+8794	2751656	2 km W Kingower	Kingower	VIC	regional	Vandiemenella	viatica19	-36.608292	143.779404	0.0445545
+8686	2751658	Kiata	Kiata	VIC	regional	Vandiemenella	viatica19	-36.366459	141.79863	0.0680693

@@ -12,10 +12,14 @@ LazyData: true
 Imports: 
     adegenet,
     dplyr,
+    forcats,
     ggplot2,
     ggrepel,
     magrittr,
+    methods,
     plotly,
+    readr,
+    rlang,
     stats,
     tibble,
     tidyselect

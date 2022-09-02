@@ -13,25 +13,29 @@
 #' @param force internal value for repel
 #' @param force_pull internal value for repel
 #' @param max.overlaps internal value for repel
+#' @param dataref RefData object
+#' @param character facet of RefData to focus on
 #'
 #' @return returns ggplot graph (or paints it)
 #' @export
 #'
 #' @examples
 #' print("test")
-ggplotall <- function(df, xval, yval, Pop = allidv_gen@pop, xl = xval, yl = yval, title = "",
+ggplotall <- function(df, xval, yval, dataref, lev, Pop = allidv_gen@pop, xl = xval, yl = yval, title = "",
                       labs = PopLabs, colrs = ColLabs, text = "", force = 3, force_pull = 1,
                       max.overlaps = 200){
-  newdf <- df %>% select(xval = xval, yval = yval) %>% add_column(Pop = Pop) %>% mutate(text = text)
+  newdf <- df %>% select(xval = xval, yval = yval) %>% add_column(Pop = get_idvs(dataref, lev)) %>% mutate(text = text)
   newdf <- newdf %>% group_by(Pop) %>% mutate(Num = n()) %>% arrange(desc(Num), Pop) %>% ungroup()
   xvals <- newdf %>% select(xval) %>% unlist %>% as.numeric
   yvals <- newdf %>% select(yval) %>% unlist %>% as.numeric
   Pops <- newdf %>% select(Pop) %>% unlist# %>% factor(levels = lablevs)
   txt <- newdf %>% select(text) %>% unlist
+  labs = get_labs(dataref, lev)
+  colrs = get_cols(dataref, lev)
   ggplot(newdf) + aes(x = xvals, y = yvals, fill = factor(Pops, levels = labs),
                       label = factor(Pops, levels = labs), text = txt) +
     geom_point(size = 4, alpha = 0.85, shape = 21, colour = "black") +
     repel_all(xvals, yvals, Pops, labs, txt, force, force_pull, max.overlaps = max.overlaps) +
     xlab(xl) + ylab(yl) + ggtitle(title) + #scale_x_continuous(breaks = c(0))+ scale_y_continuous(breaks = c(0)) +
-    theme_warramaba(vals = colrs)
+    theme_popcrunchr(vals = colrs)
 }

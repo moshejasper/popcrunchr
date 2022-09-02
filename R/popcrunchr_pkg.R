@@ -18,13 +18,16 @@ palletlevs <- c("#bb3333", "#ffff4a", "#ffd9f9", "#00ff99",
 #' Base documentation
 #' @name popcrunchr_pkg
 #' @importFrom adegenet dapc
-#' @importFrom dplyr filter select arrange group_by summarise mutate ungroup slice
+#' @importFrom dplyr filter select arrange group_by summarise mutate ungroup slice across all_of inner_join n
 #' @importFrom tibble tibble as_tibble add_row add_column
 #' @importFrom plotly ggplotly
+#' @importFrom forcats fct_relevel
 #' @importFrom ggplot2 aes ggplot scale_fill_manual theme_bw theme element_rect element_text element_line
+#' @importFrom ggplot2 geom_point xlab ylab ggtitle
 #' @importFrom ggrepel geom_label_repel
 #' @importFrom magrittr %>%
 #' @importFrom readr read_tsv
+#' @importFrom rlang quos
 #' @importFrom stats median
 #' @importFrom tidyselect everything
 #'
